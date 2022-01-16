@@ -1,4 +1,4 @@
-package com.demo;
+package com;
 
 public class Demo {
     int i = 10;
